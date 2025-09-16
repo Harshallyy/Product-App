@@ -23,3 +23,11 @@ This project demonstrates how to build a full-stack application with **MongoDB, 
 ---
 
 ## 📂 Project Structure
+Learning-MERN/
+│
+├── backend/ # Express server & API routes
+├── frontend/ # React frontend
+├── config/ # Database connection
+├── model/ # MongoDB models
+├── routes/ # Express routes
+└── package.json # Scripts & dependencies
